@@ -10,7 +10,10 @@ Tool use for Payload Creating Simply Easily
 # Installation 
 
 $ git clone https://github.com/Redfoxy4/Easy-Msfvenom-Payload-Creator.git
+
 $ cd Easy-Msfvenom-Payload-Creator
+
 $ chmod +x 'Easy payload creator.py'
+
 $ python3 'Easy payload creator.py'
 
